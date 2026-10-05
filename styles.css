@@ -3222,15 +3222,15 @@ img:where(.sp-e1) {
 
 .big-cta-watermark {
   position: absolute;
-  bottom: -30px;
+  bottom: -15px;
   left: 50%;
   transform: translateX(-50%);
-  width: 85%;
-  max-width: 900px;
-  opacity: 0.12;
-  filter: grayscale(1) contrast(1.2);
+  width: 90%;
+  max-width: 1050px;
+  opacity: 0.10;
   pointer-events: none;
   object-fit: contain;
+  user-select: none;
 }
 
 .big-cta-seal {

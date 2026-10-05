@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 320" width="1600" height="320">
+  <defs>
+    <style>
+      .watermark-text {
+        font-family: 'Space Grotesk', 'Montserrat', 'Arial Black', sans-serif;
+        font-size: 155px;
+        font-weight: 900;
+        letter-spacing: 12px;
+        text-transform: uppercase;
+        fill: #3f3350;
+      }
+      .watermark-sub {
+        font-family: 'Space Grotesk', 'Montserrat', sans-serif;
+        font-size: 34px;
+        font-weight: 800;
+        letter-spacing: 24px;
+        text-transform: uppercase;
+        fill: #ff7043;
+      }
+    </style>
+  </defs>
+
+  <g opacity="0.9">
+    <!-- Swoosh graphic accent -->
+    <path d="M 60,190 Q 500,240 1000,195 T 1540,210" fill="none" stroke="#ff7043" stroke-width="12" stroke-linecap="round" opacity="0.35" />
+    <path d="M 120,212 Q 600,265 1100,218 T 1520,230" fill="none" stroke="#ff7043" stroke-width="5" stroke-linecap="round" opacity="0.25" />
+    
+    <!-- Main Bold Brand Watermark -->
+    <text x="800" y="165" text-anchor="middle" class="watermark-text">RIFA APPLIANCES</text>
+    <text x="800" y="245" text-anchor="middle" class="watermark-sub">SALEM &bull; TAMIL NADU</text>
+  </g>
+</svg>

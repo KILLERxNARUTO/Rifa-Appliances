@@ -1,0 +1,15 @@
+{
+  "generator": "Sitepeel 1.0.3",
+  "title": "Armadillo Home Warranties | The New Age Home Warranty Plan",
+  "source": "https://www.armadillo.one/",
+  "viewport": {
+    "width": 1526,
+    "height": 726
+  },
+  "elementCount": 1253,
+  "notes": [
+    "Scripts, frames, form values, editable text, data attributes and credential URL parameters are excluded. Review visible page text before sharing."
+  ],
+  "assetsIncluded": true,
+  "unavailableAssets": []
+}

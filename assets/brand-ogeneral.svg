@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 50" width="210" height="50">
+  <!-- O GENERAL Emblem -->
+  <g transform="translate(10, 10)">
+    <circle cx="15" cy="15" r="14" fill="#e82020"/>
+    <circle cx="15" cy="15" r="8" fill="#ffffff"/>
+    <circle cx="15" cy="15" r="4" fill="#e82020"/>
+  </g>
+  <!-- GENERAL Text -->
+  <text x="50" y="33" font-family="'Inter', Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1.5" fill="#e82020">O GENERAL</text>
+</svg>

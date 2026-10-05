@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 50" width="170" height="50">
+  <!-- V-Guard Shield / V Motif -->
+  <g transform="translate(10, 8)">
+    <path d="M4 4 L16 30 L28 4 L22 4 L16 20 L10 4 Z" fill="#e65100"/>
+    <polygon points="12,4 20,4 16,14" fill="#ffb300"/>
+  </g>
+  <!-- V-GUARD Text -->
+  <text x="48" y="32" font-family="'Inter', Arial, sans-serif" font-size="22" font-weight="900" letter-spacing="1.2" fill="#d84315">V-GUARD</text>
+</svg>

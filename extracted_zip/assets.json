@@ -1,0 +1,526 @@
+[
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/checkmark.svg",
+    "path": "assets/asset-001.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/bullet-x.svg",
+    "path": "assets/asset-002.svg"
+  },
+  {
+    "url": "https://uploads.salemove.com/user_assets/site-ba1c19f2-70a4-4889-8891-dce9b1bc35f4/site_logo-1666296422.png",
+    "path": "assets/asset-003.png"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+    "path": "assets/asset-004.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+    "path": "assets/asset-005.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+    "path": "assets/asset-006.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+    "path": "assets/asset-007.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+    "path": "assets/asset-008.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+    "path": "assets/asset-009.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "path": "assets/asset-010.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj8K8VSMZlE.woff2",
+    "path": "assets/asset-011.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj8K_1SM.woff2",
+    "path": "assets/asset-012.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFajQ6_UyI.woff2",
+    "path": "assets/asset-013.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFajo6_Q.woff2",
+    "path": "assets/asset-014.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYskZ6H2pW2hz.woff2",
+    "path": "assets/asset-015.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYskZ6HOpWw.woff2",
+    "path": "assets/asset-016.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf6H2pW2hz.woff2",
+    "path": "assets/asset-017.woff2"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf6HOpWw.woff2",
+    "path": "assets/asset-018.woff2"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/title-line.svg",
+    "path": "assets/asset-019.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/checkmark-green.svg",
+    "path": "assets/asset-020.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/partners/stats-bgline.svg",
+    "path": "assets/asset-021.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/about/quotebox-topline.svg",
+    "path": "assets/asset-022.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/about/quotebox-botline.svg",
+    "path": "assets/asset-023.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/css/fonts/icomoon.woff2?h3bnsc",
+    "path": "assets/asset-024.woff2"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/css/fonts/icomoon.ttf?h3bnsc",
+    "path": "assets/asset-025.ttf"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/css/fonts/icomoon.woff?h3bnsc",
+    "path": "assets/asset-026.woff"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/css/fonts/kittenslant-webfont.woff2",
+    "path": "assets/asset-027.woff2"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/css/fonts/kittenslant-webfont.woff",
+    "path": "assets/asset-028.woff"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff2",
+    "path": "assets/asset-029.woff2"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff",
+    "path": "assets/asset-030.woff"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0",
+    "path": "assets/asset-031.eot"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+    "path": "assets/asset-032.eot"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+    "path": "assets/asset-033.woff2"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0",
+    "path": "assets/asset-034.woff"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0",
+    "path": "assets/asset-035.ttf"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/fontawesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+    "path": "assets/asset-036.svg"
+  },
+  {
+    "url": "https://libs.salemove.com/9c96e0ed7093c095fd33870329282962.png",
+    "path": "assets/asset-037.png"
+  },
+  {
+    "url": "https://libs.salemove.com/432eae68d4352d697544cabfe454baed.png",
+    "path": "assets/asset-038.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/logo.svg",
+    "path": "assets/asset-039.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/partner-icon-insurance.svg",
+    "path": "assets/asset-040.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/insurance-rain1.svg",
+    "path": "assets/asset-041.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/insurance-rain2.svg",
+    "path": "assets/asset-042.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/partner-icon-realestate.svg",
+    "path": "assets/asset-043.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/realestate-sign.svg",
+    "path": "assets/asset-044.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/partner-icon-programs.svg",
+    "path": "assets/asset-045.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/partner-icon-benefits.svg",
+    "path": "assets/asset-046.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/benefits-coin.svg",
+    "path": "assets/asset-047.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/benefits-slot.svg",
+    "path": "assets/asset-048.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/whatis-btn.svg",
+    "path": "assets/asset-049.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/whatis-btn-on.svg",
+    "path": "assets/asset-050.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/mobile-menulines.svg",
+    "path": "assets/asset-051.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/chevron-right.svg",
+    "path": "assets/asset-052.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/earL.svg",
+    "path": "assets/asset-053.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-bot.svg",
+    "path": "assets/asset-054.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/overlay-armadillo.svg",
+    "path": "assets/asset-055.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/earR.svg",
+    "path": "assets/asset-056.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-topbg.svg",
+    "path": "assets/asset-057.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-eyebrow.svg",
+    "path": "assets/asset-058.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-eye.svg",
+    "path": "assets/asset-059.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-top.svg",
+    "path": "assets/asset-060.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-hero-spacer@2x.png",
+    "path": "assets/asset-061.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-hero-bg.svg",
+    "path": "assets/asset-062.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-clouds.svg",
+    "path": "assets/asset-063.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-sun.svg",
+    "path": "assets/asset-064.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-birdL.svg",
+    "path": "assets/asset-065.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-bush1@2x.png",
+    "path": "assets/asset-066.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-bush2@2x.png",
+    "path": "assets/asset-067.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tree3.svg",
+    "path": "assets/asset-068.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-leaf2.svg",
+    "path": "assets/asset-069.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tree1.svg",
+    "path": "assets/asset-070.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-leaf1.svg",
+    "path": "assets/asset-071.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tree2.svg",
+    "path": "assets/asset-072.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-wbush1.svg",
+    "path": "assets/asset-073.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-wbush2.svg",
+    "path": "assets/asset-074.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tail.svg",
+    "path": "assets/asset-075.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-armadillo-body.svg",
+    "path": "assets/asset-076.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-house@2x.png",
+    "path": "assets/asset-077.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-armadillo-head.svg",
+    "path": "assets/asset-078.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/arrow-curve-2.svg",
+    "path": "assets/asset-079.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2026/01/trustpilot_Logo.svg",
+    "path": "assets/asset-080.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2026/01/betcome_2026.svg",
+    "path": "assets/asset-081.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2026/01/betcome_2025.svg",
+    "path": "assets/asset-082.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/09/MarketWatch.svg",
+    "path": "assets/asset-083.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2026/01/cnn.svg",
+    "path": "assets/asset-084.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2026/01/forbes.svg",
+    "path": "assets/asset-085.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/09/Yahoo_Finance_logo-vertical.svg",
+    "path": "assets/asset-086.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/08/logo-bus-hournals.svg",
+    "path": "assets/asset-087.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/08/logo-consumer-affairs2.svg",
+    "path": "assets/asset-088.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2026/01/KeyCrew-Verified-Expert-Badge-Colorized.png",
+    "path": "assets/asset-089.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/ornament-heart.svg",
+    "path": "assets/asset-090.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-heating.svg",
+    "path": "assets/asset-091.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/heating-meter.svg",
+    "path": "assets/asset-092.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-electric.svg",
+    "path": "assets/asset-093.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/electric-dial1.svg",
+    "path": "assets/asset-094.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/electric-dial2.svg",
+    "path": "assets/asset-095.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/electric-spark.svg",
+    "path": "assets/asset-096.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-plumbing.svg",
+    "path": "assets/asset-097.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/plumbing-drops.svg",
+    "path": "assets/asset-098.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-kitchen.svg",
+    "path": "assets/asset-099.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/kitchen-drawer.svg",
+    "path": "assets/asset-100.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-laundry.svg",
+    "path": "assets/asset-101.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/laundry-spinner.svg",
+    "path": "assets/asset-102.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/compari-arma.png",
+    "path": "assets/asset-103.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/how-top-base@2x.png",
+    "path": "assets/asset-104.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-how-spacer@2x.png",
+    "path": "assets/asset-105.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/how-clouds.svg",
+    "path": "assets/asset-106.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/how-armadillo.svg",
+    "path": "assets/asset-107.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-how-base@2x.png",
+    "path": "assets/asset-108.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-how-girl@2x.png",
+    "path": "assets/asset-109.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/arrow-curve-rt.svg",
+    "path": "assets/asset-110.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/08/base.png",
+    "path": "assets/asset-111.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/08/premium.png",
+    "path": "assets/asset-112.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/08/standard.png",
+    "path": "assets/asset-113.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/08/all-plans-include.png",
+    "path": "assets/asset-114.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-transparency@2x.png",
+    "path": "assets/asset-115.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-coverage@2x.png",
+    "path": "assets/asset-116.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-qual@2x.png",
+    "path": "assets/asset-117.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-flex@2x.png",
+    "path": "assets/asset-118.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-fast@2x.png",
+    "path": "assets/asset-119.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-support@2x.png",
+    "path": "assets/asset-120.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/uploads/2025/11/green-incentive-home.png",
+    "path": "assets/asset-121.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/bigtext-spacer.png",
+    "path": "assets/asset-122.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/bigtext-logo.svg",
+    "path": "assets/asset-123.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/seal-welcome.svg",
+    "path": "assets/asset-124.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/ceo-person@2x.png",
+    "path": "assets/asset-125.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/ceo-chat@2x.png",
+    "path": "assets/asset-126.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/footer-lockup@2x.png",
+    "path": "assets/asset-127.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/earL-solid.svg",
+    "path": "assets/asset-128.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/footer-armadillo.svg",
+    "path": "assets/asset-129.svg"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/warranty-typical.png",
+    "path": "assets/asset-130.png"
+  },
+  {
+    "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/warranty-arma@2x.png",
+    "path": "assets/asset-131.png"
+  }
+]

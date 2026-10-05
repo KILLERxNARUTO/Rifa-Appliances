@@ -1,0 +1,1021 @@
+{
+  "source": "https://www.armadillo.one/",
+  "assets": [
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/logo.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 59,
+      "alt": "Armadillo",
+      "label": "Armadillo",
+      "category": "Images",
+      "index": 0
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/partner-icon-insurance.svg",
+      "kind": "Image",
+      "width": 163,
+      "height": 150,
+      "alt": "partner icon insurance",
+      "label": "partner icon insurance",
+      "category": "Images",
+      "index": 1
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/insurance-rain1.svg",
+      "kind": "Image",
+      "width": 3,
+      "height": 150,
+      "alt": "insurance rain1",
+      "label": "insurance rain1",
+      "category": "Images",
+      "index": 2
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/insurance-rain2.svg",
+      "kind": "Image",
+      "width": 3,
+      "height": 150,
+      "alt": "insurance rain2",
+      "label": "insurance rain2",
+      "category": "Images",
+      "index": 3
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/partner-icon-realestate.svg",
+      "kind": "Image",
+      "width": 163,
+      "height": 150,
+      "alt": "partner icon realestate",
+      "label": "partner icon realestate",
+      "category": "Images",
+      "index": 4
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/realestate-sign.svg",
+      "kind": "Image",
+      "width": 168,
+      "height": 150,
+      "alt": "realestate sign",
+      "label": "realestate sign",
+      "category": "Images",
+      "index": 5
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/partner-icon-programs.svg",
+      "kind": "Image",
+      "width": 163,
+      "height": 150,
+      "alt": "partner icon programs",
+      "label": "partner icon programs",
+      "category": "Images",
+      "index": 6
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/partner-icon-benefits.svg",
+      "kind": "Image",
+      "width": 163,
+      "height": 150,
+      "alt": "partner icon benefits",
+      "label": "partner icon benefits",
+      "category": "Images",
+      "index": 7
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/benefits-coin.svg",
+      "kind": "Image",
+      "width": 150,
+      "height": 150,
+      "alt": "benefits coin",
+      "label": "benefits coin",
+      "category": "Images",
+      "index": 8
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/benefits-slot.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 42,
+      "alt": "benefits slot",
+      "label": "benefits slot",
+      "category": "Images",
+      "index": 9
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/whatis-btn.svg",
+      "kind": "Image",
+      "width": 150,
+      "height": 150,
+      "alt": "What Is Home Warranty",
+      "label": "What Is Home Warranty",
+      "category": "Images",
+      "index": 10
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/whatis-btn-on.svg",
+      "kind": "Image",
+      "width": 150,
+      "height": 150,
+      "alt": "whatis btn on",
+      "label": "whatis btn on",
+      "category": "Images",
+      "index": 11
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/mobile-menulines.svg",
+      "kind": "Image",
+      "width": 19,
+      "height": 18,
+      "alt": "mobile menulines",
+      "label": "mobile menulines",
+      "category": "Images",
+      "index": 12
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/chevron-right.svg",
+      "kind": "Image",
+      "width": 118,
+      "height": 150,
+      "alt": "chevron-right",
+      "label": "chevron-right",
+      "category": "Images",
+      "index": 13
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/earL.svg",
+      "kind": "Image",
+      "width": 100,
+      "height": 150,
+      "alt": "earL",
+      "label": "earL",
+      "category": "Images",
+      "index": 14
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-bot.svg",
+      "kind": "Image",
+      "width": 168,
+      "height": 150,
+      "alt": "armadillo glasses bot",
+      "label": "armadillo glasses bot",
+      "category": "Images",
+      "index": 15
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/overlay-armadillo.svg",
+      "kind": "Image",
+      "width": 245,
+      "height": 150,
+      "alt": "overlay armadillo",
+      "label": "overlay armadillo",
+      "category": "Images",
+      "index": 16
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/earR.svg",
+      "kind": "Image",
+      "width": 93,
+      "height": 150,
+      "alt": "earR",
+      "label": "earR",
+      "category": "Images",
+      "index": 17
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-topbg.svg",
+      "kind": "Image",
+      "width": 168,
+      "height": 150,
+      "alt": "armadillo glasses topbg",
+      "label": "armadillo glasses topbg",
+      "category": "Images",
+      "index": 18
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-eyebrow.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 85,
+      "alt": "armadillo eyebrow",
+      "label": "armadillo eyebrow",
+      "category": "Images",
+      "index": 19
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-eye.svg",
+      "kind": "Image",
+      "width": 158,
+      "height": 150,
+      "alt": "armadillo glasses eye",
+      "label": "armadillo glasses eye",
+      "category": "Images",
+      "index": 20
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/armadillo-glasses-top.svg",
+      "kind": "Image",
+      "width": 168,
+      "height": 150,
+      "alt": "armadillo glasses top",
+      "label": "armadillo glasses top",
+      "category": "Images",
+      "index": 21
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-hero-spacer@2x.png",
+      "kind": "Image",
+      "width": 1171,
+      "height": 520,
+      "alt": "home hero spacer",
+      "label": "home hero spacer",
+      "category": "Images",
+      "index": 22
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-hero-bg.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 133,
+      "alt": "home hero bg",
+      "label": "home hero bg",
+      "category": "Images",
+      "index": 23
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-clouds.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 26,
+      "alt": "hero clouds",
+      "label": "hero clouds",
+      "category": "Images",
+      "index": 24
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-sun.svg",
+      "kind": "Image",
+      "width": 150,
+      "height": 150,
+      "alt": "hero sun",
+      "label": "hero sun",
+      "category": "Images",
+      "index": 25
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-birdL.svg",
+      "kind": "Image",
+      "width": 270,
+      "height": 150,
+      "alt": "hero birdL",
+      "label": "hero birdL",
+      "category": "Images",
+      "index": 26
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-bush1@2x.png",
+      "kind": "Image",
+      "width": 787,
+      "height": 316,
+      "alt": "hero bush1",
+      "label": "hero bush1",
+      "category": "Images",
+      "index": 27
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-bush2@2x.png",
+      "kind": "Image",
+      "width": 645,
+      "height": 282,
+      "alt": "hero bush2",
+      "label": "hero bush2",
+      "category": "Images",
+      "index": 28
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tree3.svg",
+      "kind": "Image",
+      "width": 85,
+      "height": 150,
+      "alt": "hero tree3",
+      "label": "hero tree3",
+      "category": "Images",
+      "index": 29
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-leaf2.svg",
+      "kind": "Image",
+      "width": 232,
+      "height": 150,
+      "alt": "hero leaf2",
+      "label": "hero leaf2",
+      "category": "Images",
+      "index": 30
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tree1.svg",
+      "kind": "Image",
+      "width": 104,
+      "height": 150,
+      "alt": "hero tree1",
+      "label": "hero tree1",
+      "category": "Images",
+      "index": 31
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-leaf1.svg",
+      "kind": "Image",
+      "width": 62,
+      "height": 150,
+      "alt": "hero leaf1",
+      "label": "hero leaf1",
+      "category": "Images",
+      "index": 32
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tree2.svg",
+      "kind": "Image",
+      "width": 151,
+      "height": 150,
+      "alt": "hero tree2",
+      "label": "hero tree2",
+      "category": "Images",
+      "index": 33
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-wbush1.svg",
+      "kind": "Image",
+      "width": 208,
+      "height": 150,
+      "alt": "hero wbush1",
+      "label": "hero wbush1",
+      "category": "Images",
+      "index": 34
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-wbush2.svg",
+      "kind": "Image",
+      "width": 176,
+      "height": 150,
+      "alt": "hero wbush2",
+      "label": "hero wbush2",
+      "category": "Images",
+      "index": 35
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-tail.svg",
+      "kind": "Image",
+      "width": 192,
+      "height": 150,
+      "alt": "hero tail",
+      "label": "hero tail",
+      "category": "Images",
+      "index": 36
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-armadillo-body.svg",
+      "kind": "Image",
+      "width": 250,
+      "height": 150,
+      "alt": "hero armadillo body",
+      "label": "hero armadillo body",
+      "category": "Images",
+      "index": 37
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-house@2x.png",
+      "kind": "Image",
+      "width": 518,
+      "height": 567,
+      "alt": "hero house",
+      "label": "hero house",
+      "category": "Images",
+      "index": 38
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/hero-armadillo-head.svg",
+      "kind": "Image",
+      "width": 250,
+      "height": 150,
+      "alt": "hero armadillo head",
+      "label": "hero armadillo head",
+      "category": "Images",
+      "index": 39
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/arrow-curve-2.svg",
+      "kind": "Image",
+      "width": 58,
+      "height": 46,
+      "alt": "arrow curve 2",
+      "label": "arrow curve 2",
+      "category": "Images",
+      "index": 40
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2026/01/trustpilot_Logo.svg",
+      "kind": "Image",
+      "width": 1133,
+      "height": 279,
+      "alt": "trustpilot logo",
+      "label": "trustpilot logo",
+      "category": "Images",
+      "index": 41
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2026/01/betcome_2026.svg",
+      "kind": "Image",
+      "width": 855,
+      "height": 233,
+      "label": "",
+      "category": "Images",
+      "index": 42
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2026/01/betcome_2025.svg",
+      "kind": "Image",
+      "width": 855,
+      "height": 233,
+      "label": "",
+      "category": "Images",
+      "index": 43
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/09/MarketWatch.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 43,
+      "alt": "MarketWatch",
+      "label": "MarketWatch",
+      "category": "Images",
+      "index": 44
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2026/01/cnn.svg",
+      "kind": "Image",
+      "width": 1000,
+      "height": 476,
+      "alt": "CNN Logo",
+      "label": "CNN Logo",
+      "category": "Images",
+      "index": 45
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2026/01/forbes.svg",
+      "kind": "Image",
+      "width": 2580,
+      "height": 648,
+      "alt": "Forbes Logo",
+      "label": "Forbes Logo",
+      "category": "Images",
+      "index": 46
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/09/Yahoo_Finance_logo-vertical.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 110,
+      "alt": "Yahoo Finance",
+      "label": "Yahoo Finance",
+      "category": "Images",
+      "index": 47
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/08/logo-bus-hournals.svg",
+      "kind": "Image",
+      "width": 109,
+      "height": 36,
+      "label": "",
+      "category": "Images",
+      "index": 48
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/08/logo-consumer-affairs2.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 80,
+      "label": "",
+      "category": "Images",
+      "index": 49
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2026/01/KeyCrew-Verified-Expert-Badge-Colorized.png",
+      "kind": "Image",
+      "width": 506,
+      "height": 559,
+      "label": "",
+      "category": "Images",
+      "index": 50
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/ornament-heart.svg",
+      "kind": "Image",
+      "width": 41,
+      "height": 37,
+      "alt": "ornament heart",
+      "label": "ornament heart",
+      "category": "Images",
+      "index": 51
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-heating.svg",
+      "kind": "Image",
+      "width": 196,
+      "height": 150,
+      "alt": "service icon heating",
+      "label": "service icon heating",
+      "category": "Images",
+      "index": 52
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/heating-meter.svg",
+      "kind": "Image",
+      "width": 87,
+      "height": 150,
+      "alt": "heating meter",
+      "label": "heating meter",
+      "category": "Images",
+      "index": 53
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-electric.svg",
+      "kind": "Image",
+      "width": 196,
+      "height": 150,
+      "alt": "service icon electric",
+      "label": "service icon electric",
+      "category": "Images",
+      "index": 54
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/electric-dial1.svg",
+      "kind": "Image",
+      "width": 47,
+      "height": 150,
+      "alt": "electric dial1",
+      "label": "electric dial1",
+      "category": "Images",
+      "index": 55
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/electric-dial2.svg",
+      "kind": "Image",
+      "width": 47,
+      "height": 150,
+      "alt": "electric dial2",
+      "label": "electric dial2",
+      "category": "Images",
+      "index": 56
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/electric-spark.svg",
+      "kind": "Image",
+      "width": 53,
+      "height": 150,
+      "alt": "electric spark",
+      "label": "electric spark",
+      "category": "Images",
+      "index": 57
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-plumbing.svg",
+      "kind": "Image",
+      "width": 196,
+      "height": 150,
+      "alt": "service icon plumbing",
+      "label": "service icon plumbing",
+      "category": "Images",
+      "index": 58
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/plumbing-drops.svg",
+      "kind": "Image",
+      "width": 8,
+      "height": 150,
+      "alt": "plumbing drops",
+      "label": "plumbing drops",
+      "category": "Images",
+      "index": 59
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-kitchen.svg",
+      "kind": "Image",
+      "width": 196,
+      "height": 150,
+      "alt": "service icon kitchen",
+      "label": "service icon kitchen",
+      "category": "Images",
+      "index": 60
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/kitchen-drawer.svg",
+      "kind": "Image",
+      "width": 231,
+      "height": 150,
+      "alt": "kitchen drawer",
+      "label": "kitchen drawer",
+      "category": "Images",
+      "index": 61
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/service-icon-laundry.svg",
+      "kind": "Image",
+      "width": 196,
+      "height": 150,
+      "alt": "service icon laundry",
+      "label": "service icon laundry",
+      "category": "Images",
+      "index": 62
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/laundry-spinner.svg",
+      "kind": "Image",
+      "width": 150,
+      "height": 150,
+      "alt": "laundry spinner",
+      "label": "laundry spinner",
+      "category": "Images",
+      "index": 63
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/compari-arma.png",
+      "kind": "Image",
+      "width": 539,
+      "height": 229,
+      "alt": "compari arma",
+      "label": "compari arma",
+      "category": "Images",
+      "index": 64
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/how-top-base@2x.png",
+      "kind": "Image",
+      "width": 3600,
+      "height": 148,
+      "alt": "how top base",
+      "label": "how top base",
+      "category": "Images",
+      "index": 65
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-how-spacer@2x.png",
+      "kind": "Image",
+      "width": 701,
+      "height": 1137,
+      "alt": "home how spacer",
+      "label": "home how spacer",
+      "category": "Images",
+      "index": 66
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/how-clouds.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 23,
+      "alt": "how clouds",
+      "label": "how clouds",
+      "category": "Images",
+      "index": 67
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/how-armadillo.svg",
+      "kind": "Image",
+      "width": 88,
+      "height": 150,
+      "alt": "how armadillo",
+      "label": "how armadillo",
+      "category": "Images",
+      "index": 68
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-how-base@2x.png",
+      "kind": "Image",
+      "width": 2200,
+      "height": 2272,
+      "alt": "home how base",
+      "label": "home how base",
+      "category": "Images",
+      "index": 69
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/home-how-girl@2x.png",
+      "kind": "Image",
+      "width": 1451,
+      "height": 1001,
+      "alt": "home how girl",
+      "label": "home how girl",
+      "category": "Images",
+      "index": 70
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/arrow-curve-rt.svg",
+      "kind": "Image",
+      "width": 67,
+      "height": 59,
+      "alt": "arrow curve rt",
+      "label": "arrow curve rt",
+      "category": "Images",
+      "index": 71
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/08/base.png",
+      "kind": "Image",
+      "width": 203,
+      "height": 203,
+      "alt": "Appliance Plan",
+      "label": "Appliance Plan",
+      "category": "Images",
+      "index": 72
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/08/premium.png",
+      "kind": "Image",
+      "width": 203,
+      "height": 203,
+      "alt": "Whole Home Plan",
+      "label": "Whole Home Plan",
+      "category": "Images",
+      "index": 73
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/08/standard.png",
+      "kind": "Image",
+      "width": 202,
+      "height": 203,
+      "alt": "Systems Plan",
+      "label": "Systems Plan",
+      "category": "Images",
+      "index": 74
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/08/all-plans-include.png",
+      "kind": "Image",
+      "width": 1291,
+      "height": 860,
+      "alt": "All Plans Include:",
+      "label": "All Plans Include:",
+      "category": "Images",
+      "index": 75
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-transparency@2x.png",
+      "kind": "Image",
+      "width": 836,
+      "height": 636,
+      "alt": "why-transparency@2x",
+      "label": "why-transparency@2x",
+      "category": "Images",
+      "index": 76
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-coverage@2x.png",
+      "kind": "Image",
+      "width": 836,
+      "height": 636,
+      "alt": "why-coverage@2x",
+      "label": "why-coverage@2x",
+      "category": "Images",
+      "index": 77
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-qual@2x.png",
+      "kind": "Image",
+      "width": 836,
+      "height": 636,
+      "alt": "why-qual@2x",
+      "label": "why-qual@2x",
+      "category": "Images",
+      "index": 78
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-flex@2x.png",
+      "kind": "Image",
+      "width": 836,
+      "height": 636,
+      "alt": "why-flex@2x",
+      "label": "why-flex@2x",
+      "category": "Images",
+      "index": 79
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-fast@2x.png",
+      "kind": "Image",
+      "width": 836,
+      "height": 636,
+      "alt": "why-fast@2x",
+      "label": "why-fast@2x",
+      "category": "Images",
+      "index": 80
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2021/11/why-support@2x.png",
+      "kind": "Image",
+      "width": 836,
+      "height": 636,
+      "alt": "why-support@2x",
+      "label": "why-support@2x",
+      "category": "Images",
+      "index": 81
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2025/11/green-incentive-home.png",
+      "kind": "Image",
+      "width": 1281,
+      "height": 932,
+      "alt": "The Armadillo Green Incentive Program",
+      "label": "The Armadillo Green Incentive Program",
+      "category": "Images",
+      "index": 82
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/bigtext-spacer.png",
+      "kind": "Image",
+      "width": 700,
+      "height": 150,
+      "alt": "bigtext spacer",
+      "label": "bigtext spacer",
+      "category": "Images",
+      "index": 83
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/bigtext-logo.svg",
+      "kind": "Image",
+      "width": 300,
+      "height": 59,
+      "alt": "bigtext logo",
+      "label": "bigtext logo",
+      "category": "Images",
+      "index": 84
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/seal-welcome.svg",
+      "kind": "Image",
+      "width": 150,
+      "height": 150,
+      "alt": "Welcome to a new age of home warranty",
+      "label": "Welcome to a new age of home warranty",
+      "category": "Images",
+      "index": 85
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/ceo-person@2x.png",
+      "kind": "Image",
+      "width": 346,
+      "height": 346,
+      "alt": "ceo person",
+      "label": "ceo person",
+      "category": "Images",
+      "index": 86
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/home/ceo-chat@2x.png",
+      "kind": "Image",
+      "width": 230,
+      "height": 144,
+      "alt": "ceo chat",
+      "label": "ceo chat",
+      "category": "Images",
+      "index": 87
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/footer-lockup@2x.png",
+      "kind": "Image",
+      "width": 442,
+      "height": 512,
+      "alt": "Don't sweat it you're Armadillo protected",
+      "label": "Don't sweat it you're Armadillo protected",
+      "category": "Images",
+      "index": 88
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/parts/earL-solid.svg",
+      "kind": "Image",
+      "width": 96,
+      "height": 150,
+      "alt": "earL solid",
+      "label": "earL solid",
+      "category": "Images",
+      "index": 89
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/footer-armadillo.svg",
+      "kind": "Image",
+      "width": 204,
+      "height": 150,
+      "alt": "footer armadillo",
+      "label": "footer armadillo",
+      "category": "Images",
+      "index": 90
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/warranty-typical.png",
+      "kind": "Image",
+      "width": 450,
+      "height": 222,
+      "alt": "warranty typical",
+      "label": "warranty typical",
+      "category": "Images",
+      "index": 91
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/warranty-arma@2x.png",
+      "kind": "Image",
+      "width": 264,
+      "height": 334,
+      "alt": "warranty arma",
+      "label": "warranty arma",
+      "category": "Images",
+      "index": 92
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/checkmark.svg",
+      "kind": "Background",
+      "width": 0,
+      "height": 0,
+      "label": "",
+      "category": "Images",
+      "index": 93
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/bullet-x.svg",
+      "kind": "Background",
+      "width": 309,
+      "height": 28,
+      "label": "",
+      "category": "Images",
+      "index": 94
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%22161%22%20height%3D%2227%22%20viewBox%3D%220%200%20161%2027%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M11.6387%2010.2719L3.05371%2011.5186L9.26636%2017.5748L7.79987%2026.1244L15.4775%2022.0879L23.1567%2026.1244L21.6902%2017.5748L27.9014%2011.5186L19.3178%2010.2719L15.4775%202.49243L11.6387%2010.2719Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3Cpath%20d%3D%22M6.77763%2017.0502L6.97828%2015.8832L0.765625%209.8269L9.35062%208.58024L13.1894%200.800781L17.0298%208.58024L25.6148%209.8269L19.4021%2015.8832L20.8686%2024.4328L13.1894%2020.3962L5.51179%2024.4328L6.06799%2021.1855%22%20stroke%3D%22%233F3350%22%20stroke-width%3D%221.366%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3C%2Fpath%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M44.3457%2010.2719L35.7607%2011.5186L41.9734%2017.5748L40.5054%2026.1244L48.1846%2022.0879L55.8637%2026.1244L54.3972%2017.5748L60.6084%2011.5186L52.0249%2010.2719L48.1846%202.49243L44.3457%2010.2719Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3Cpath%20d%3D%22M39.4847%2017.0502L39.6853%2015.8832L33.4727%209.8269L42.0577%208.58024L45.8965%200.800781L49.7368%208.58024L58.3218%209.8269L52.1091%2015.8832L53.5756%2024.4328L45.8965%2020.3962L38.2188%2024.4328L38.775%2021.1855%22%20stroke%3D%22%233F3350%22%20stroke-width%3D%221.366%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3C%2Fpath%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M77.2159%2010.2719L68.6309%2011.5186L74.842%2017.5748L73.3755%2026.1244L81.0547%2022.0879L88.7338%2026.1244L87.2659%2017.5748L93.4785%2011.5186L84.8935%2010.2719L81.0547%202.49243L77.2159%2010.2719Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3Cpath%20d%3D%22M72.3558%2017.0502L72.5564%2015.8832L66.3438%209.8269L74.9287%208.58024L78.7676%200.800781L82.6079%208.58024L91.1929%209.8269L84.9802%2015.8832L86.4467%2024.4328L78.7676%2020.3962L71.0899%2024.4328L71.6461%2021.1855%22%20stroke%3D%22%233F3350%22%20stroke-width%3D%221.366%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3C%2Fpath%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M110.578%2010.2719L101.993%2011.5186L108.206%2017.5748L106.738%2026.1244L114.417%2022.0879L122.096%2026.1244L120.63%2017.5748L126.841%2011.5186L118.257%2010.2719L114.417%202.49243L110.578%2010.2719Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3Cpath%20d%3D%22M105.717%2017.0502L105.918%2015.8832L99.7051%209.8269L108.29%208.58024L112.129%200.800781L115.969%208.58024L124.554%209.8269L118.342%2015.8832L119.808%2024.4328L112.129%2020.3962L104.451%2024.4328L105.007%2021.1855%22%20stroke%3D%22%233F3350%22%20stroke-width%3D%221.366%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3C%2Fpath%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M143.939%2010.2719L135.355%2011.5186L141.567%2017.5748L140.1%2026.1244L147.779%2022.0879L155.457%2026.1244L153.99%2017.5748L160.203%2011.5186L151.618%2010.2719L147.779%202.49243L143.939%2010.2719Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3Crect%20x%3D%22149.375%22%20y%3D%222.28687%22%20width%3D%2211.2637%22%20height%3D%2224.53%22%20fill%3D%22white%22%3E%3C%2Frect%3E%0A%3Cpath%20d%3D%22M139.079%2017.0502L139.28%2015.8832L133.067%209.8269L141.652%208.58024L145.491%200.800781L149.332%208.58024L157.917%209.8269L151.704%2015.8832L153.17%2024.4328L145.491%2020.3962L137.814%2024.4328L138.37%2021.1855%22%20stroke%3D%22%233F3350%22%20stroke-width%3D%221.366%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3C%2Fpath%3E%0A%3C%2Fsvg%3E",
+      "kind": "SVG",
+      "width": 161,
+      "height": 27,
+      "label": "",
+      "category": "Images",
+      "index": 95
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2258%22%20height%3D%2246%22%20viewBox%3D%220%200%2058%2046%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M51.0297%209.13346C45.3766%208.43374%2039.6386%208.30445%2034.0779%209.29191C28.5274%2010.2616%2023.196%2012.4406%2018.7272%2015.8797C14.2343%2019.2984%2010.7561%2023.9518%208.09986%2028.993C5.44493%2034.0584%203.59433%2039.5522%202.21873%2045.1525L2.21746%2045.1588C2.12119%2045.5518%201.72346%2045.7914%201.33206%2045.695C0.943194%2045.5999%200.705061%2045.2108%200.792461%2044.8229C2.07559%2039.1098%203.84513%2033.4601%206.48866%2028.164C9.13093%2022.8959%2012.6763%2017.9243%2017.3883%2014.1811C22.0737%2010.4188%2027.7522%207.96727%2033.6105%206.82516C39.4841%205.66149%2045.4944%205.68431%2051.3768%206.29529C52.1634%206.37642%2052.7334%207.07868%2052.6511%207.86459C52.57%208.65051%2051.867%209.22093%2051.0829%209.1398C51.0753%209.13854%2051.0677%209.13853%2051.0614%209.13727L51.0297%209.13346Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M51.1047%202.15665C51.9567%202.78398%2052.8436%203.44564%2053.7652%204.13994C54.6862%204.83423%2055.5318%205.48216%2056.3019%206.08315C57.0715%206.68415%2057.5665%207.07852%2057.7869%207.26511C57.8694%207.79971%2057.6219%208.28051%2057.0444%208.7075C56.4669%209.13507%2055.738%209.49566%2054.8582%209.78929C54.2808%2010.1098%2053.6827%2010.4905%2053.0639%2010.9312C52.4452%2011.3713%2051.8265%2011.8126%2051.2078%2012.2528C50.589%2012.6941%2049.9703%2013.1217%2049.3516%2013.5355C48.7329%2013.9499%2048.1348%2014.2905%2047.5573%2014.5572C47.3369%2014.504%2047.1448%2014.4038%2046.9798%2014.2561C46.8148%2014.1102%2046.6769%2013.9299%2046.5673%2013.7158C46.5119%2013.6093%2046.4707%2013.4685%2046.4436%2013.2951C46.4159%2013.1217%2046.4023%2012.9677%2046.4023%2012.8343C46.5396%2012.2471%2046.8973%2011.6661%2047.4748%2011.0914C48.0523%2010.5174%2048.7258%209.90949%2049.496%209.26843C49.9084%208.89467%2050.3622%208.56727%2050.8572%208.2868C51.3521%208.00577%2051.8059%207.75964%2052.2184%207.54558C51.7234%207.14491%2051.2284%206.72422%2050.7334%206.28349C50.2384%205.84276%2049.7847%205.39573%2049.3722%204.94126C48.9597%204.48737%2048.595%204.05351%2048.2791%203.63911C47.9627%203.22528%2047.7494%202.85724%2047.6398%202.53728C47.6121%202.05649%2047.7152%201.61518%2047.9492%201.21509C48.1825%200.814429%2048.4919%200.613525%2048.8772%200.613525C49.0422%200.613525%2049.1931%200.681066%2049.331%200.814429C49.661%201.08173%2050.252%201.52933%2051.1047%202.15665Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3C%2Fsvg%3E",
+      "kind": "SVG",
+      "width": 58,
+      "height": 46,
+      "label": "",
+      "category": "Images",
+      "index": 96
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%22114%22%20height%3D%2235%22%20viewBox%3D%220%200%20114%2035%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M58.0633%2019.4346L56.9345%2019.4556C56.8284%2019.4586%2056.7217%2019.4606%2056.615%2019.4636C56.7531%2020.6126%2056.9057%2021.5836%2057.3043%2021.9286C58.2058%2022.7076%2058.0463%2021.1206%2058.0633%2019.4346M81.7148%2016.7036L82.4995%2016.6076C82.9873%2016.5446%2083.4751%2016.4806%2083.9635%2016.4136C83.7306%2015.3696%2083.445%2014.5256%2082.8856%2014.1946C81.6991%2013.4926%2081.647%2014.4836%2081.6884%2015.8826L81.6966%2016.1336C81.7029%2016.3196%2081.7098%2016.5096%2081.7148%2016.7036M42.6777%2031.9266C40.6418%2028.5236%2039.422%2024.8546%2039.0473%2020.6396C34.9184%2021.0536%2030.7926%2021.5416%2026.6669%2022.0526L23.3108%2022.4726C22.7508%2022.5426%2022.1914%2022.6146%2021.6321%2022.6846C15.407%2023.4716%208.77958%2021.0796%202.31912%2018.6556C-0.659059%2017.5386%200.0566076%2016.1276%200.830658%2015.3916L0.907874%2015.3206C1.12697%2015.1246%201.34104%2014.9856%201.46848%2014.9256C2.25069%2014.5526%203.026%2014.1096%203.79942%2013.6436L4.57347%2013.1716C7.53972%2011.3536%2010.5198%209.46159%2013.8734%2010.3256C21.6528%2012.3276%2028.9501%209.68159%2036.059%207.95459C44.357%205.93859%2052.6123%206.05459%2060.9718%205.75559C72.3609%205.34859%2083.9101%205.35959%2094.9364%202.70259C99.0559%201.70859%20102.056%20-2.26541%20106.474%202.72659C112.093%209.07559%20114.157%2016.2456%20112.492%2025.6436C112.072%2028.0186%20111.626%2028.3306%20107.431%2028.3626C105.892%2026.7536%20104.211%2025.7486%20102.432%2025.1036C101.48%2025.6246%20100.504%2025.8496%2099.4803%2025.4666C94.7512%2023.6956%2090.2419%2025.9976%2085.8625%2027.4966C80.7499%2029.2456%2075.6994%2029.1256%2070.578%2029.3696C69.9132%2029.4016%2069.2478%2029.4296%2068.5823%2029.4566L66.5835%2029.5386C60.9171%2029.7746%2055.2376%2030.1076%2049.7389%2031.9726C47.2015%2032.8336%2045.2993%2036.3106%2042.6777%2031.9266%22%20fill%3D%22%23FFF8E1%22%3E%3C%2Fpath%3E%0A%3C%2Fsvg%3E",
+      "kind": "SVG",
+      "width": 114,
+      "height": 35,
+      "label": "",
+      "category": "Images",
+      "index": 97
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20width%3D%2214%22%20height%3D%2214%22%20viewBox%3D%220%200%2014%2014%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Cpath%20fill-rule%3D%22evenodd%22%20clip-rule%3D%22evenodd%22%20d%3D%22M6.70508%2011.2402L2.59058%2013.4034L3.37638%208.82179L0.0476825%205.57712L4.64783%204.90867L6.70508%200.740234L8.76233%204.90867L13.3625%205.57712L10.0338%208.82179L10.8196%2013.4034L6.70508%2011.2402Z%22%20fill%3D%22%23FF7043%22%3E%3C%2Fpath%3E%0A%3C%2Fsvg%3E",
+      "kind": "SVG",
+      "width": 14,
+      "height": 14,
+      "label": "",
+      "category": "Images",
+      "index": 98
+    },
+    {
+      "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20viewBox%3D%220%200%2020%2020%22%20role%3D%22img%22%20aria-label%3D%22Chat%22%20class%3D%22sm-icon-default-chat%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M11.6%2C3.7H8.4c-2.6%2C0-4.7%2C1.8-5%2C4.2c-0.2%2C1.4%2C0.2%2C2.8%2C1.2%2C3.8c0.9%2C1%2C2.2%2C1.6%2C3.6%2C1.6h1.5l0.1%2C0.1l2.8%2C%202.8v-2.9%20l0.3-0.1c2.4-0.6%2C4-2.8%2C3.7-5.2C16.4%2C5.6%2C14.2%2C3.7%2C11.6%2C3.7z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E",
+      "kind": "SVG",
+      "width": 34,
+      "height": 34,
+      "label": "",
+      "category": "Images",
+      "index": 99
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/themes/armadillo/images/favicon.png",
+      "kind": "Icon",
+      "width": 0,
+      "height": 0,
+      "label": "",
+      "category": "Images",
+      "index": 100
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2023/02/favicon-100x100.png",
+      "kind": "Icon",
+      "width": 0,
+      "height": 0,
+      "label": "",
+      "category": "Images",
+      "index": 101
+    },
+    {
+      "url": "https://www.armadillo.one/wp-content/uploads/2023/02/favicon.png",
+      "kind": "Icon",
+      "width": 0,
+      "height": 0,
+      "label": "",
+      "category": "Images",
+      "index": 102
+    }
+  ],
+  "unavailable": []
+}

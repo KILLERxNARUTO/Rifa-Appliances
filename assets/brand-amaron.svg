@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 50" width="170" height="50">
+  <!-- Amaron Vibrant Green Energy Motif -->
+  <g transform="translate(10, 10)">
+    <rect x="2" y="2" width="24" height="24" rx="4" fill="#008000"/>
+    <path d="M7 14 L14 7 L14 13 L21 13 L14 21 L14 15 Z" fill="#76ff03"/>
+  </g>
+  <!-- AMARON Text -->
+  <text x="44" y="33" font-family="'Inter', Arial, sans-serif" font-size="23" font-weight="900" font-style="italic" letter-spacing="1" fill="#00701a">AMARON</text>
+</svg>

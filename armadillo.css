@@ -3222,12 +3222,15 @@ img:where(.sp-e1) {
 
 .big-cta-watermark {
   position: absolute;
-  bottom: -40px;
+  bottom: -30px;
   left: 50%;
   transform: translateX(-50%);
-  width: 105%;
-  opacity: 0.18;
+  width: 85%;
+  max-width: 900px;
+  opacity: 0.12;
+  filter: grayscale(1) contrast(1.2);
   pointer-events: none;
+  object-fit: contain;
 }
 
 .big-cta-seal {
@@ -3243,6 +3246,31 @@ img:where(.sp-e1) {
   z-index: 5;
   max-width: 700px;
   margin: 0 auto;
+}
+
+.big-cta-brand-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  padding: 12px 28px;
+  border-radius: 9999px;
+  box-shadow: 0 8px 24px rgba(63, 51, 80, 0.12), 0 2px 6px rgba(0, 0, 0, 0.04);
+  margin-bottom: 24px;
+  border: 1px solid rgba(255, 112, 67, 0.25);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.big-cta-brand-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(63, 51, 80, 0.16);
+}
+
+.big-cta-logo {
+  max-width: 260px;
+  height: auto;
+  display: block;
+  object-fit: contain;
 }
 
 .big-cta-content h2 {

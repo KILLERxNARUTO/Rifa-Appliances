@@ -191,6 +191,17 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  // Close mobile drawer when clicking navigation links inside it
+  const mobileNavLinks = document.querySelectorAll('.mobile-drawer a');
+  mobileNavLinks.forEach(link => {
+    link.addEventListener('click', () => {
+      if (mobileDrawer) {
+        mobileDrawer.classList.remove('open');
+        document.body.style.overflow = '';
+      }
+    });
+  });
+
   // 7. SECTION 3 QUOTE SLIDER (Trust & Testimonials Top Slider)
   const sec3Quotes = document.querySelectorAll('#testimonials .quote-item');
   const sec3Dots = document.querySelectorAll('#testimonials .slider-dot');
